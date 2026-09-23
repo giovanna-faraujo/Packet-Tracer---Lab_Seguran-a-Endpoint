@@ -43,6 +43,9 @@ Durante a execução do laboratório no simulador, foram avaliadas e configurada
 
 ---
 
+<img width="390" height="227" alt="image" src="https://github.com/user-attachments/assets/d97ffc8e-6abc-418b-85cf-df4ea545aabf" />
+
+---
 ## O que Aprendi
 * **Conceito de Defesa em Profundidade:** A importância de utilizar múltiplas camadas de segurança (como atualizações, controle de acesso e monitoramento).
 * **Mitigação de Riscos:** Identificação e tratamento prático de pontos fracos em estações de trabalho.
